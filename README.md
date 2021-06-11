@@ -16,7 +16,7 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
 `Country`: Name of the country where each customer resides.<br>
 
 
-![](rfm metrics.png)
+![](rfm_metrics.png)
 
 
 
