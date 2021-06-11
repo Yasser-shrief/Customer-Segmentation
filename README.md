@@ -15,6 +15,6 @@ Typically e-commerce datasets are proprietary and consequently hard to find amon
 `CustomerID`: Customer number that consists 5 digits. Each customer has a unique customer ID.<br>
 `Country`: Name of the country where each customer resides.<br>
 
-![](rfm metrics.png)
+![](./images/rfm metrics.png)
 
 
